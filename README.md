@@ -1,2 +1,2 @@
 # EventTemplate
-Верстка макета
+Верстка макета - https://uncle-tom.github.io/EventTemplate/
