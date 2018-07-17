@@ -1,2 +1,2 @@
 # EventTemplate
-Верстка макета - https://uncle-tom.github.io/EventTemplate/
+Верстка макета - [Preview](https://uncle-tom.github.io/EventTemplate/)
